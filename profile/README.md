@@ -1,34 +1,35 @@
 # OMS IT™ — AI Systems, Software Engineering & Technology
 
-**Online Marketing Service (OMS IT)** is a Bangladesh-based AI and software engineering organization building intelligent systems, digital platforms, automation, web/API infrastructure, research-driven products, and security-conscious technology solutions.
+**Online Marketing Service (OMS IT™)** is a Bangladesh-based AI and software engineering organization building intelligent systems, digital platforms, automation, web/API infrastructure, research-driven products, and security-conscious technology solutions.
+
+> **OpenAI Select Partner:** OMS IT holds organization-level **OpenAI Select Partner** status through the **OpenAI Partner Network**.  
+> **Public partner-status record:** [OPENAI_SELECT_PARTNER.md](../OPENAI_SELECT_PARTNER.md)
 
 **Official website:** https://omsitbd.com  
 **Technology:** https://omsitbd.com/technology  
 **Contact:** info@omsitbd.com  
 **Base:** Dhaka, Bangladesh
 
-> This organization profile is a public-safe identity, engineering portfolio, and evidence layer. Production source code, credentials, databases, customer-confidential material, private integrations, and sensitive infrastructure remain private.
+> This organization profile is a public-safe identity, engineering portfolio, and evidence layer. Production source code, credentials, databases, customer-confidential material, private integrations, restricted partner materials, and sensitive infrastructure remain private.
 
 ---
 
-## OpenAI Partner Network
+## 🤝 OpenAI Partner Network
 
-**Online Marketing Service (OMS IT)** is an active member of the **OpenAI Partner Network at the Select tier**.
+### OMS IT™ — OpenAI Select Partner
 
-| Partner detail | Current documented information |
-|---|---|
-| Organization | Online Marketing Service (OMS IT) |
-| Network | OpenAI Partner Network |
-| Current tier | Select |
-| Partner ID | `OPN-W6K9` |
-| Partnership status | Active |
-| Program duration | July 1, 2026 – June 30, 2027 |
-| Evaluation start date | September 30, 2026 |
-| Partner Validation Letter date | October 6, 2026 |
+**Online Marketing Service (OMS IT™) holds OpenAI Select Partner status through the OpenAI Partner Network.**
 
-OMS IT maintains program documentation supporting its current organization-level membership and tier, including a Partner Validation Letter and Partner Portal records.
+The status applies to **OMS IT at the organization level** and is maintained separately from individual learning credentials and product-level claims.
 
-> **Relationship boundary:** OpenAI Partner Network membership applies to OMS IT at the organization level. It does not by itself mean that OpenAI has approved, certified, endorsed, sponsored, validated, or guaranteed any individual OMS IT product, customer project, application, website, service, or deliverable.
+**Public verification record maintained by OMS IT:**  
+[OpenAI Select Partner — Organization-Level Public Record](../OPENAI_SELECT_PARTNER.md)
+
+OMS IT maintains supporting partner-program records and communications. Restricted Partner Portal information, credentials, internal metrics, and other non-public program material are intentionally not published here.
+
+> **Relationship boundary:** OMS IT's OpenAI Select Partner status does not by itself mean that OpenAI has approved, certified, endorsed, sponsored, validated, guaranteed, or operates any individual OMS IT product, BD AI, OMS Nexus, customer project, application, website, service, course, publication, or deliverable.
+
+If an OpenAI-controlled public directory or other authoritative OpenAI public source becomes available for OMS IT, that source should be treated as stronger independent verification and linked from this public profile.
 
 ---
 
@@ -139,7 +140,7 @@ Technical contribution, ownership, operation, partnership, and endorsement are s
 
 ## Organization & Leadership
 
-**Organization:** Online Marketing Service (OMS IT)  
+**Organization:** Online Marketing Service (OMS IT™)  
 **Founder & Leadership:** MD Mahadi Hasan  
 **Base:** Dhaka, Bangladesh  
 **Official website:** https://omsitbd.com  
@@ -149,6 +150,8 @@ Technical contribution, ownership, operation, partnership, and endorsement are s
 
 - OMS IT: https://omsitbd.com
 - Technology: https://omsitbd.com/technology
+- Public GitHub organization: https://github.com/Online-Marketing-Service-OMS
+- Public OpenAI Select Partner record: https://github.com/Online-Marketing-Service-OMS/.github/blob/main/OPENAI_SELECT_PARTNER.md
 - Engineering organization: https://github.com/oms-organization
 - PoribohonBD: https://poribohonbd.com
 - BD AI: https://bdaihelp.com
