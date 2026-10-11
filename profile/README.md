@@ -5,6 +5,14 @@
 > **OpenAI Select Partner:** OMS IT holds organization-level **OpenAI Select Partner** status through the **OpenAI Partner Network**.  
 > **Public partner-status record:** [OPENAI_SELECT_PARTNER.md](../OPENAI_SELECT_PARTNER.md)
 
+## Public evidence and verification
+
+- [OMS IT public evidence repository](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence) — detailed evidence index and source summaries
+- [Evidence index](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence/blob/main/EVIDENCE_INDEX.md) — validation letter, Partner Network communications and publication boundaries
+- [Partner Locator explanation](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence/blob/main/evidence/OPN-07-public-openai-listing.md)
+
+The organization profile introduces OMS IT; the separate evidence repository preserves the supporting records. Both are OMS-controlled public sources. They are not independent OpenAI-hosted verification.
+
 **Official website:** https://omsitbd.com  
 **Technology:** https://omsitbd.com/technology  
 **Contact:** info@omsitbd.com  
@@ -83,7 +91,7 @@ Bangladesh citizen-focused digital service and information platform designed to 
 
 BD AI is an independent Bangladesh-focused initiative providing AI-assisted help, verified knowledge and resources, trust and verification, learning/training, project registration, and administration capabilities.
 
-**OMS IT relationship:** Engineering and technical support, including AI, infrastructure, security, maintenance, and related technology work where documented. This technical relationship does not make BD AI a government body or imply OpenAI endorsement of BD AI.
+**OMS IT relationship:** BD AI is developed and operated by OMS IT. This technical relationship does not make BD AI a government body or imply OpenAI endorsement of BD AI.
 
 ## OMS Nexus
 
@@ -141,7 +149,7 @@ Technical contribution, ownership, operation, partnership, and endorsement are s
 ## Organization & Leadership
 
 **Organization:** Online Marketing Service (OMS IT™)  
-**Founder & Leadership:** MD Mahadi Hasan  
+**Founder & Leadership:** MD Mahadi Hassan  
 **Base:** Dhaka, Bangladesh  
 **Official website:** https://omsitbd.com  
 **Email:** info@omsitbd.com

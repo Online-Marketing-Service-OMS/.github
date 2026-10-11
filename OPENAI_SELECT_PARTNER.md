@@ -13,6 +13,16 @@
 
 This public record is maintained so OMS IT's current organization-level partner status can be stated consistently across its public website, GitHub profile, technical documentation, media references, and other public-safe materials.
 
+## Supporting public records
+
+The detailed evidence set is maintained in the [OMS IT public evidence repository](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence).
+
+- [Evidence index](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence/blob/main/EVIDENCE_INDEX.md)
+- [Structured partner-status record](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence/blob/main/OPENAI_SELECT_PARTNER.md)
+- [Partner Locator clarification](https://github.com/Online-Marketing-Service-OMS/oms-it-public-evidence/blob/main/evidence/OPN-07-public-openai-listing.md)
+
+These are OMS-controlled summaries of supporting records; original private communications and restricted portal material remain private.
+
 ## Evidence boundary
 
 OMS IT maintains supporting partner-program records and communications for its organization-level status. Restricted Partner Portal materials, private account information, credentials, internal metrics, and other non-public program information are not published in this public repository.
